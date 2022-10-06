@@ -1,2 +1,2 @@
 # E-Commerce-Web-Site
-Build E Commerce Web Site with Html,Css and Javascript
+E Commerce Web Site with Html,Css and Javascript
